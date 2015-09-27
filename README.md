@@ -51,6 +51,6 @@ You should create one R script called run_analysis.R that does the following.
 2. download [compressed raw data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 3. unzip raw data and copy the directory `UCI HAR Dataset` to the cloned repository root directory
 4. open a R console and set the working directory to the repository root (use setwd("path/to/UCI HAR dataset"))
-5. source run_analisys.R script.
+5. source run_analisys.R script (" source('~/R/getdata-repo-peer2/run_analysis.R') ") 
 
 In the repository root directory you find the file `sensor_data.txt` with the tidy data set.
